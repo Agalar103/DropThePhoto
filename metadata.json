@@ -1,0 +1,8 @@
+{
+  "name": "DropThePhoto (DTP)",
+  "description": "Dark Punk temalı fotoğraf ve not bırakma platformu.",
+  "requestFramePermissions": [
+    "geolocation",
+    "microphone"
+  ]
+}
